@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#173fb0"/>
+      <stop offset="1" stop-color="#2456e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1050" cy="90" r="150" fill="#f2a33c" opacity="0.12"/>
+  <circle cx="140" cy="560" r="200" fill="#ffffff" opacity="0.06"/>
+  <g transform="translate(80 70)">
+    <rect width="96" height="96" rx="24" fill="#fff"/>
+    <path d="M48 26l-26 12 26 12 26-12-26-12z" fill="#2456e6"/>
+    <path d="M33 47v6c0 4.2 6.8 6.8 15 6.8s15-2.6 15-6.8v-6.4L48 54 33 47z" fill="#2456e6" opacity="0.85"/>
+    <circle cx="72" cy="26" r="6.4" fill="#f2a33c"/>
+  </g>
+  <text x="200" y="118" font-family="Fraunces, Georgia, serif" font-size="60" font-weight="600" fill="#fff">Bimbel Edufa</text>
+  <text x="200" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="rgba(255,255,255,0.85)">Teman Belajar Siswa di Ciseeng</text>
+  <text x="80" y="330" font-family="Fraunces, Georgia, serif" font-size="64" font-weight="600" fill="#fff">Bimbingan Belajar</text>
+  <text x="80" y="405" font-family="Fraunces, Georgia, serif" font-size="64" font-weight="600" fill="#f2a33c">SD • SMP • SMA</text>
+  <text x="80" y="470" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="rgba(255,255,255,0.9)">Ciseeng, Kabupaten Bogor dan sekitarnya</text>
+  <rect x="80" y="510" width="330" height="62" rx="31" fill="#fff"/>
+  <text x="245" y="551" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#2456e6">bimbel-edufa.com</text>
+</svg>

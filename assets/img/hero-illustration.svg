@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef3ff"/>
+      <stop offset="1" stop-color="#fdf0dc"/>
+    </linearGradient>
+    <linearGradient id="cap" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2456e6"/>
+      <stop offset="1" stop-color="#1c3fb0"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="520" rx="28" fill="url(#bg)"/>
+
+  <!-- desk -->
+  <ellipse cx="320" cy="452" rx="210" ry="18" fill="#1c3fb0" opacity="0.08"/>
+  <path d="M120 380h400l34 44H86z" fill="#f2a33c" opacity="0.22"/>
+  <path d="M120 356h400v36H120z" fill="#c98a1f" opacity="0.35"/>
+
+  <!-- books -->
+  <rect x="150" y="300" width="70" height="14" rx="4" fill="#2456e6" opacity="0.85"/>
+  <rect x="144" y="288" width="70" height="14" rx="4" fill="#1c3fb0" opacity="0.75"/>
+  <rect x="158" y="276" width="70" height="14" rx="4" fill="#f2a33c" opacity="0.8"/>
+  <rect x="152" y="332" width="84" height="24" rx="6" fill="#fff" stroke="#d8ddf0"/>
+
+  <!-- laptop -->
+  <rect x="390" y="300" width="110" height="74" rx="10" fill="#20242f"/>
+  <rect x="398" y="308" width="94" height="58" rx="4" fill="#e8efff"/>
+  <circle cx="424" cy="330" r="6" fill="#2456e6"/>
+  <path d="M418 352h40" stroke="#2456e6" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+  <rect x="382" y="374" width="126" height="10" rx="5" fill="#c98a1f" opacity="0.6"/>
+
+  <!-- tutor (left) -->
+  <circle cx="256" cy="218" r="46" fill="#f0b98a"/>
+  <path d="M210 268q46 30 92 0l-6 96q-40 24-80 0z" fill="#2456e6"/>
+  <path d="M210 268l-14 22c10 8 26 12 40 10m52-32l14 22c-10 8-26 12-40 10" fill="#173fb0"/>
+  <path d="M204 262l54-14" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity="0.5"/>
+  <circle cx="240" cy="208" r="5" fill="#20242f"/>
+  <circle cx="272" cy="208" r="5" fill="#20242f"/>
+  <path d="M244 232q12 10 24 0" stroke="#20242f" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+  <!-- whiteboard behind -->
+  <rect x="470" y="120" width="120" height="88" rx="12" fill="#fff" stroke="#d8ddf0" stroke-width="3"/>
+  <text x="494" y="158" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#2456e6">+</text>
+  <text x="520" y="158" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#20242f">2=5</text>
+  <text x="494" y="192" font-family="Arial, sans-serif" font-size="40" fill="#f2a33c">&#10013;</text>
+
+  <!-- student (right) -->
+  <circle cx="400" cy="250" r="40" fill="#f0b98a"/>
+  <path d="M360 296q40 26 80 0l-4 84q-36 22-72 0z" fill="#1fb96a" opacity="0.9"/>
+  <path d="M360 296l-12 20c10 7 24 10 36 8m44-28l12 20c-10 7-24 10-36 8" fill="#12934d"/>
+  <circle cx="386" cy="242" r="4.5" fill="#20242f"/>
+  <circle cx="414" cy="242" r="4.5" fill="#20242f"/>
+  <path d="M390 264q10 8 20 0" stroke="#20242f" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+
+  <!-- sparkles -->
+  <path d="M70 120l6 16 16 6-16 6-6 16-6-16-16-6 16-6z" fill="#f2a33c"/>
+  <path d="M150 92l4 11 11 4-11 4-4 11-4-11-11-4 11-4z" fill="#2456e6" opacity="0.5"/>
+  <path d="M560 300l4 11 11 4-11 4-4 11-4-11-11-4 11-4z" fill="#f2a33c" opacity="0.8"/>
+  <circle cx="592" cy="150" r="6" fill="#2456e6" opacity="0.4"/>
+  <circle cx="96" cy="300" r="7" fill="#1fb96a" opacity="0.35"/>
+</svg>

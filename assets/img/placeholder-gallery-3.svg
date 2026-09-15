@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e3f7ec"/><stop offset="1" stop-color="#cdf0de"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <g fill="#1fb96a" opacity="0.15">
+    <rect x="90" y="430" width="620" height="80" rx="14"/>
+  </g>
+  <g fill="#12934d">
+    <circle cx="300" cy="250" r="42"/>
+    <circle cx="500" cy="230" r="46"/>
+    <path d="M258 296q42 28 84 0l8 58q-46 26-100 0z"/>
+    <path d="M454 282q46 26 92 0l8 60q-50 26-108 0z"/>
+  </g>
+  <rect x="330" y="330" width="140" height="60" rx="12" fill="#fff" opacity="0.9"/>
+  <path d="M330 330h-24v60h24z" fill="#1fb96a" opacity="0.8"/>
+  <text x="400" y="540" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#3a6750">Foto pendampingan siswa - ganti dengan foto asli</text>
+</svg>

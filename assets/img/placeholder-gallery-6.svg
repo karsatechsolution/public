@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e3f7ec"/><stop offset="1" stop-color="#cdf0de"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <g fill="#12934d">
+    <circle cx="360" cy="240" r="44"/>
+    <circle cx="480" cy="250" r="40"/>
+    <path d="M316 290q44 28 88 0l8 56q-48 26-104 0z"/>
+    <path d="M440 296q40 24 80 0l6 54q-42 22-92 0z"/>
+  </g>
+  <path d="M400 140l5 12 12 5-12 5-5 12-5-12-12-5 12-5z" fill="#2456e6" opacity="0.5"/>
+  <text x="400" y="540" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#3a6750">Foto kegiatan Edufa - ganti dengan foto asli</text>
+</svg>
