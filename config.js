@@ -18,7 +18,7 @@ const CONFIG = {
 
   // URL Google Business / Google Maps. KOSONGKAN jika belum ada,
   // tombol "Lihat Profil Google" otomatis disembunyikan.
-  googleBusinessUrl: "",
+  googleBusinessUrl: "<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.486065630435!2d106.6605175!3d-6.4599335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e7fc3cf91735%3A0x29200fbec1b33d38!2sBimbel%20Edufa%20ESC!5e0!3m2!1sen!2sid!4v1789471216198!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>",
 
   location: "Ciseeng, Kabupaten Bogor",
   serviceArea: "Ciseeng, Kabupaten Bogor dan sekitarnya",
