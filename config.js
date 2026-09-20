@@ -5,9 +5,9 @@
 // ============================================================
 
 const CONFIG = {
-  businessName: "Bimbel Edufa",
+  businessName: "Bimbel Edufa ESC",
   website: "https://bimbel-edufa.com",
-  // Subdomain pendaftaran barang calon siswa.
+  // Subdomain pendaftaran calon siswa.
   registrationUrl: "https://daftar.bimbel-edufa.com",
 
   // Nomor WhatsApp dalam format internasional tanpa tanda +.
@@ -68,7 +68,7 @@ const LEVELS = {
 // isExample = true => website menampilkan penanda "Contoh jadwal".
 // ============================================================
 const SCHEDULES = {
-  isExample: true,
+  isExample: false,
   items: [
     { day: "Senin", time: "16.00 - 17.30", level: "SD", subject: "Matematika" },
     { day: "Selasa", time: "16.00 - 17.30", level: "SMP", subject: "IPA" },
