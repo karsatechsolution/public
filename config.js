@@ -104,14 +104,14 @@ const FEES = {
 // ============================================================
 const TESTIMONIALS = {
   enabled: true,
-  hasReal: false, // ubah true setelah ada testimoni asli
+  hasReal: true, // ubah true setelah ada testimoni asli
   items: [
     {
-      name: "Nama Orang Tua Asli",
+      name: "Pak Anselmus",
       status: "Orang Tua",
-      level: "SMP",
-      comment: "Tulis komentar asli dari orang tua di sini.",
-      rating: null, // hanya isi angka 1-5 jika dari data nyata
+      level: "SD",
+      comment: "kualitas pembelajarannya bagus.....",
+      rating: 5, // hanya isi angka 1-5 jika dari data nyata
     },
   ],
 };
