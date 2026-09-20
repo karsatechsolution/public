@@ -123,12 +123,10 @@ const TESTIMONIALS = {
 // ============================================================
 const GALLERY = {
   items: [
-    { src: "assets/img/placeholder-gallery-1.svg", title: "Suasana Belajar", category: "Kelas" },
-    { src: "assets/img/placeholder-gallery-2.svg", title: "Diskusi Materi", category: "Kegiatan" },
-    { src: "assets/img/placeholder-gallery-3.svg", title: "Pendampingan Siswa", category: "Siswa" },
-    { src: "assets/img/placeholder-gallery-4.svg", title: "Belajar Matematika", category: "Materi" },
-    { src: "assets/img/placeholder-gallery-5.svg", title: "Suasana Belajar", category: "Kegiatan" },
-    { src: "assets/img/placeholder-gallery-6.svg", title: "Foto Kegiatan Edufa", category: "Kegiatan" },
+    { src: "assets/img/3.jpg", title: "Suasana Belajar", category: "Kelas" },
+    { src: "assets/img/4.jpg", title: "Suasana Belajar", category: "Kelas" },
+    { src: "assets/img/2.jpg", title: "Pendampingan Siswa", category: "Siswa" },
+    { src: "assets/img/5.jpg", title: "Foto Kegiatan Edufa", category: "Kegiatan" },
   ],
 };
 
